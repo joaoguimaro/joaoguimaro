@@ -6,7 +6,7 @@ Tenho 18 anos.
 
 ----- 
 
- - 🎓 Cursando 3º Semestre de **Análise e Desenvolvimento de Sistemas** na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
+ - 🎓 Cursando 4º Semestre de **Análise e Desenvolvimento de Sistemas** na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
 
 ## 🚀 Habilidades
 
