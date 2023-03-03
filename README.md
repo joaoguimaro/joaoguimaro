@@ -2,11 +2,11 @@
 
 ----- 
 
-Tenho 18 anos.
+Tenho 19 anos.
 
 ----- 
 
- - 🎓 Cursando 4º Semestre de **Análise e Desenvolvimento de Sistemas** na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br)
+ - 🎓 Cursando 5º Semestre de **Análise e Desenvolvimento de Sistemas** na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br)
 
 ## 🚀 Habilidades
 
@@ -15,6 +15,8 @@ Tenho 18 anos.
  - C
  - C#
  - .NET
+ - Java
+ - SQL
  - HTML
  - CSS
  - JavaScript
@@ -28,6 +30,7 @@ Tenho 18 anos.
  - Trello
  - Git
  - Github
+ - Oracle
 
 ## 🌐 Redes Sociais
 
